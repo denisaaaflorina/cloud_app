@@ -106,7 +106,7 @@ Acum ca avem butonul, vom adauga un event listener pentru evenimentul de clic si
 
 Folosim Fetch API pentru a face request. Se foloseste adresa URL a API-ului catre care dorim sa facem o solicitare GET si vom primi inapoi o promisiune. La final vom avea un raspuns JSON (res). 
 
-Dupa cum am mentionat mai sus, API returneaza matricea de cocktail-uri, dar numai cu un element in ea, asa ca vom trece acel articol (la index 0) in functia noastra createCocktail, pe care o vom defini in continuare.
+Dupa cum am mentionat mai sus, API returneaza matricea de cocktail-uri, dar numai cu un element in ea, asa ca vom trece acel articol (0) in functia noastra createCocktail, pe care o vom defini in continuare.
 
 ![image](https://user-images.githubusercontent.com/74535379/117855665-5fac5c00-b293-11eb-91a0-54147c3505e4.png)
 
