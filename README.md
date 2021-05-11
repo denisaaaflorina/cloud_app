@@ -131,3 +131,9 @@ Cea de-a doua optiune oferita de aplicatie este obtinerea unui cocktail random d
 ![image](https://user-images.githubusercontent.com/74535379/117857047-080ef000-b295-11eb-867f-32c0238179fe.png)
 
 Aceasta aplicatie  este utila atunci cand nu ai inspiratie si vrei sa incerci ceva nou, atat din punct de vedere al mancarii, cat si din punct de vedere al bauturii.
+
+Referinte:
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+https://developers.google.com/web/updates/2015/03/introduction-to-fetch
+https://www.redhat.com/en/topics/api/what-is-a-rest-api
+
