@@ -36,6 +36,7 @@ Cele mai importane parti din HTML sunt
 -	Div #meal-details-content
 
 JavaScript
+
 Vom folosi butonul #search-btn pentru a face o cerere catre API, care va trimite inapoi cateva date pe care le vom introduce in div-ul #meal, care in acest caz actioneaza ca un container.
 
 ![image](https://user-images.githubusercontent.com/74535379/117855084-cd0bbd00-b292-11eb-924c-f55f1b73f84d.png)
@@ -134,6 +135,8 @@ Aceasta aplicatie  este utila atunci cand nu ai inspiratie si vrei sa incerci ce
 
 Referinte:
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
 https://developers.google.com/web/updates/2015/03/introduction-to-fetch
+
 https://www.redhat.com/en/topics/api/what-is-a-rest-api
 
