@@ -81,7 +81,7 @@ HTML
 Cele mai importane parti din HTML sunt:
 -	Butonul #get_cocktail
 -	Div #cocktail
--	
+
 JavaScript
 
 Vom folosi butonul pentru a face o cerere catre API, care va trimite inapoi date pe care le vom introduce in div-ul #cocktail care, si-n acest caz, actioneaza ca un container.
